@@ -1,3 +1,3 @@
 # FARMA
 A Farming Mod for Arma 3
-http://s17.postimg.org/d4lrnksdb/dirtscatter.png
+![alt tag](http://s17.postimg.org/d4lrnksdb/dirtscatter.png)
